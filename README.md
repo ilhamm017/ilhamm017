@@ -68,17 +68,6 @@ Currently building **MigunaniMotor** — an omnichannel spare parts platform, ha
 
 ---
 
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/ilhamm017/Migunani_Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilhamm017&repo=Migunani_Project&theme=dark&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&border_color=112240"/>
-  </a>
-  <a href="https://github.com/ilhamm017/modern-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilhamm017&repo=modern-backend&theme=dark&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&border_color=112240"/>
-  </a>
-</p>
-
 ---
 
 <div align="center">
